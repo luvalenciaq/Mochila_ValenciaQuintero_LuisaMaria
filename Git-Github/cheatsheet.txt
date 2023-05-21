@@ -1,0 +1,48 @@
+CHEATSHEET
+cd <nombre-carpeta> (Se utiliza para ingresar a una carpeta específica)
+
+ls (Se utiliza para ver lo que hay en el interior de una carpeta)
+
+ls -R (Se utiliza para ver el contenido de todas las carpetas)
+
+mkdir (Crear una carpeta)
+
+tocuh (Crear un archivo)
+
+rm <archivo> (Para borrar un archivo)
+
+git —version (Para ver la versión de git que está instalada)
+
+git init (Crear un repositorio local)
+
+git config user.name “nombre-de-usuario” (Agrega nuestra identidad)
+
+git config user.email “nombre-de-usuario@email.com” (Agrega nuestro email)
+
+git config —global <user.name/user.email> (Para establecer permanentemente el usuario o email)
+
+git branch -m <nombre> (Cambia el nombre de la rama raíz)
+
+git status (Para hacer el seguimiento del estado de los archivos en el repositorio)
+
+git add <nombre-archivo> (Para agregar un archivo al área stage)
+
+git add . (Para agregar todos los archivos al área stage)
+
+git commit -m “mensaje” (Para comitear los cambios hechos)
+
+git log (Para ver el historial de actividad en el repositorio)
+
+git log —online (Resumen de los commits que se crearon)
+
+git push origin main (Envía los cambios al repositorio remoto)
+
+git remote -v (Para chequear la vinculación del repositorio)
+
+git pull origin main (Actualizar los archivos de un repositorio remoto al local)
+
+git clone “url del proyecto” (Crear una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto)
+
+git branch (Para crear un rama)
+
+git checkout nombre-rama (Para moverse de una rama a otra)

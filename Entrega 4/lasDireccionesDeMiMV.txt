@@ -1,0 +1,12 @@
+IP pública
+181.128.207.202
+
+IP privada
+10.0.2.15
+
+Dirección MAC
+08:00:27:82:f1:f2
+
+Es diferente la IP publica y privada de nuestra maquina host?
+La Ip publica es la misma, pero la privada es diferente para 
+poder ser identificadas cada una en la red.
